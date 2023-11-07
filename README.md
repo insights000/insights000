@@ -1,4 +1,4 @@
-                                          ![image](https://github.com/insights000/insights000/assets/150028138/4d7bfc7d-6374-453a-9c10-662112688429)
+                                           ![image](https://github.com/insights000/insights000/assets/150028138/4d7bfc7d-6374-453a-9c10-662112688429)
 
 
 <div align="center"> <h1 align="center"> Aspiring and data proficient, How do you do? I am Sana Ali and I am a young aspiring data proficient professional who is looking to become a Junior Data Analyst apprentice, I have a passion for exploring data 
