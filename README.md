@@ -5,7 +5,7 @@
 
 
 
-<div align="center"> <h1 align="center"> Aspiring and data proficient, How do you do? I am Sana Ali and I am a young aspiring data proficient professional who is looking to become a Junior Data Analyst apprentice, I have a passion for exploring data 
+<div align="center"> <h1 align="center"> Aspiring analyst and data proficient. How do you do? I am Sana Ali and I am a young aspiring data proficient professional who is looking to become a Junior Data Analyst apprentice, I have a passion for exploring data 
   with a variety of tech and I am a self motivated individual, so welcome to my profile, and lets play the data game. 👋 </h1> </div>
 
                                        
